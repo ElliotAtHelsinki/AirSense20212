@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  mysqldb:
+    image: mysql:8.0
+    restart: unless-stopped
+    env_file: ./.env
+    environment:
+      - MYSQL_USER=abc
+      - MYSQL_ROOT_PASSWORD=$MYSQL_PASSWORD
+      - MYSQL_DATABASE=$MYSQL_DB
+    command: --init-file /data/application/setup.sql
+    ports:
+      - "3307:3306"
+    expose:
+      - "3306"
+    volumes:
+      - ./setup.sql:/data/application/setup.sql
+      - db:/var/lib/mysql
+  app:
+    build:
+      context: .
+    image: phungvansyhb/airsense-be
+    env_file: ./.env
+    ports:
+      - "3001:3001"
+    volumes:
+      - node_modules
+    command:
+      [ "wait-for-it/wait-for-it.sh","mysqldb:3306","--","npm","start" ]
+    environment:
+      - MYSQL_HOST=mysqldb
+    depends_on:
+      - mysqldb
+    stdin_open: true
+    tty: true
+volumes:
+  db:

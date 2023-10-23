@@ -1,0 +1,11 @@
+build/
+node_modules/
+package-lock.json
+jsconfig.json
+yarn.lock
+public/
+nginx-conf/
+docker-compose.*
+.gitlab-ci.yml
+*.md
+migrations/

@@ -1,0 +1,5 @@
+{
+  "sql-file": true,
+  "configFile": "app/config/database.json",
+  "table": "migration_manage"
+}

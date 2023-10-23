@@ -1,0 +1,42 @@
+{
+	"parserOptions": {
+		"ecmaVersion": 2020
+	},
+	"extends": ["eslint:recommended", "prettier"],
+	"plugins": ["prettier"],
+	"env": {
+		"browser": true,
+		"es6": true,
+		"node": true
+	},
+	"rules": {
+		"camelcase": ["warn"],
+		"no-unreachable": ["error"],
+		"no-global-assign": ["error"],
+		"no-self-compare": ["error"],
+		"prettier/prettier": ["warn"],
+		"no-unused-vars": "warn",
+		"no-debugger": "warn",
+		"no-plusplus": "off",
+		"no-param-reassign": "off",
+		"no-shadow-restricted-names": ["error"],
+    "no-duplicate-imports": "error",
+    "no-restricted-imports": "error",
+		"no-use-before-define": [
+			"error",
+			{
+				"functions": false
+			}
+		],
+		"no-useless-computed-key": ["error"],
+		"no-useless-rename": ["error"],
+		"no-var": ["error"],
+		"object-shorthand": ["error", "always"],
+		"prefer-arrow-callback": ["error"],
+		"prefer-const": ["error"],
+		"prefer-numeric-literals": ["error"],
+		"prefer-rest-params": ["error"],
+		"prefer-spread": ["error"],
+		"rest-spread-spacing": ["error", "never"]
+	}
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "position": {
+      "lat": 25,
+      "lng": 19
+    },
+    "aqi": 44
+  },
+  {
+    "position": {
+      "lat": -61,
+      "lng": 143
+    },
+    "aqi": 397
+  },
+  {
+    "position": {
+      "lat": -74,
+      "lng": -61
+    },
+    "aqi": 428
+  },
+  {
+    "position": {
+      "lat": 85,
+      "lng": -81
+    },
+    "aqi": 425
+  },
+  {
+    "position": {
+      "lat": 24,
+      "lng": 0
+    },
+    "aqi": 88
+  },
+  {
+    "position": {
+      "lat": 38,
+      "lng": -129
+    },
+    "aqi": 299
+  },
+  {
+    "position": {
+      "lat": 77,
+      "lng": 61
+    },
+    "aqi": 44
+  },
+  {
+    "position": {
+      "lat": -35,
+      "lng": -157
+    },
+    "aqi": 464
+  },
+  {
+    "position": {
+      "lat": -62,
+      "lng": -112
+    },
+    "aqi": 300
+  },
+  {
+    "position": {
+      "lat": -54,
+      "lng": 40
+    },
+    "aqi": 301
+  },
+  {
+    "position": {
+      "lat": 72,
+      "lng": 172
+    },
+    "aqi": 49
+  },
+  {
+    "position": {
+      "lat": -29,
+      "lng": 85
+    },
+    "aqi": 159
+  },
+  {
+    "position": {
+      "lat": 71,
+      "lng": -77
+    },
+    "aqi": 195
+  },
+  {
+    "position": {
+      "lat": 40,
+      "lng": -106
+    },
+    "aqi": 478
+  },
+  {
+    "position": {
+      "lat": -16,
+      "lng": -119
+    },
+    "aqi": 175
+  },
+  {
+    "position": {
+      "lat": 73,
+      "lng": -178
+    },
+    "aqi": 86
+  },
+  {
+    "position": {
+      "lat": 27,
+      "lng": -167
+    },
+    "aqi": 129
+  },
+  {
+    "position": {
+      "lat": -66,
+      "lng": -98
+    },
+    "aqi": 492
+  },
+  {
+    "position": {
+      "lat": -76,
+      "lng": 105
+    },
+    "aqi": 338
+  },
+  {
+    "position": {
+      "lat": -11,
+      "lng": 57
+    },
+    "aqi": 392
+  },
+  {
+    "position": {
+      "lat": 59,
+      "lng": 118
+    },
+    "aqi": 494
+  },
+  {
+    "position": {
+      "lat": 65,
+      "lng": -143
+    },
+    "aqi": 31
+  },
+  {
+    "position": {
+      "lat": 31,
+      "lng": 73
+    },
+    "aqi": 271
+  },
+  {
+    "position": {
+      "lat": -84,
+      "lng": 73
+    },
+    "aqi": 10
+  },
+  {
+    "position": {
+      "lat": -55,
+      "lng": 107
+    },
+    "aqi": 184
+  },
+  {
+    "position": {
+      "lat": -73,
+      "lng": -135
+    },
+    "aqi": 371
+  },
+  {
+    "position": {
+      "lat": 71,
+      "lng": 117
+    },
+    "aqi": 326
+  },
+  {
+    "position": {
+      "lat": 73,
+      "lng": -25
+    },
+    "aqi": 339
+  },
+  {
+    "position": {
+      "lat": 11,
+      "lng": -141
+    },
+    "aqi": 445
+  },
+  {
+    "position": {
+      "lat": -25,
+      "lng": 0
+    },
+    "aqi": 45
+  },
+  {
+    "position": {
+      "lat": 12,
+      "lng": -111
+    },
+    "aqi": 331
+  },
+  {
+    "position": {
+      "lat": 31,
+      "lng": -75
+    },
+    "aqi": 6
+  },
+  {
+    "position": {
+      "lat": 3,
+      "lng": -131
+    },
+    "aqi": 154
+  },
+  {
+    "position": {
+      "lat": 38,
+      "lng": 134
+    },
+    "aqi": 169
+  },
+  {
+    "position": {
+      "lat": 84,
+      "lng": -133
+    },
+    "aqi": 394
+  },
+  {
+    "position": {
+      "lat": 39,
+      "lng": -9
+    },
+    "aqi": 47
+  },
+  {
+    "position": {
+      "lat": 58,
+      "lng": -177
+    },
+    "aqi": 30
+  },
+  {
+    "position": {
+      "lat": -42,
+      "lng": -34
+    },
+    "aqi": 155
+  },
+  {
+    "position": {
+      "lat": -74,
+      "lng": -78
+    },
+    "aqi": 339
+  },
+  {
+    "position": {
+      "lat": -66,
+      "lng": 86
+    },
+    "aqi": 173
+  },
+  {
+    "position": {
+      "lat": -34,
+      "lng": 115
+    },
+    "aqi": 132
+  },
+  {
+    "position": {
+      "lat": 60,
+      "lng": 14
+    },
+    "aqi": 364
+  },
+  {
+    "position": {
+      "lat": 28,
+      "lng": -129
+    },
+    "aqi": 138
+  },
+  {
+    "position": {
+      "lat": 70,
+      "lng": 104
+    },
+    "aqi": 329
+  },
+  {
+    "position": {
+      "lat": 36,
+      "lng": -170
+    },
+    "aqi": 478
+  },
+  {
+    "position": {
+      "lat": -12,
+      "lng": 176
+    },
+    "aqi": 336
+  },
+  {
+    "position": {
+      "lat": 54,
+      "lng": -111
+    },
+    "aqi": 408
+  },
+  {
+    "position": {
+      "lat": 13,
+      "lng": 2
+    },
+    "aqi": 256
+  },
+  {
+    "position": {
+      "lat": -29,
+      "lng": 118
+    },
+    "aqi": 355
+  },
+  {
+    "position": {
+      "lat": 70,
+      "lng": -128
+    },
+    "aqi": 479
+  },
+  {
+    "position": {
+      "lat": -13,
+      "lng": 56
+    },
+    "aqi": 3
+  },
+  {
+    "position": {
+      "lat": 66,
+      "lng": -62
+    },
+    "aqi": 334
+  },
+  {
+    "position": {
+      "lat": 3,
+      "lng": 27
+    },
+    "aqi": 409
+  },
+  {
+    "position": {
+      "lat": -80,
+      "lng": -10
+    },
+    "aqi": 341
+  },
+  {
+    "position": {
+      "lat": 45,
+      "lng": -118
+    },
+    "aqi": 165
+  },
+  {
+    "position": {
+      "lat": -7,
+      "lng": 42
+    },
+    "aqi": 193
+  },
+  {
+    "position": {
+      "lat": -45,
+      "lng": 2
+    },
+    "aqi": 438
+  },
+  {
+    "position": {
+      "lat": 85,
+      "lng": 56
+    },
+    "aqi": 389
+  },
+  {
+    "position": {
+      "lat": -35,
+      "lng": 121
+    },
+    "aqi": 480
+  },
+  {
+    "position": {
+      "lat": -27,
+      "lng": -163
+    },
+    "aqi": 60
+  },
+  {
+    "position": {
+      "lat": -68,
+      "lng": 32
+    },
+    "aqi": 482
+  },
+  {
+    "position": {
+      "lat": 3,
+      "lng": -128
+    },
+    "aqi": 368
+  },
+  {
+    "position": {
+      "lat": -10,
+      "lng": 118
+    },
+    "aqi": 359
+  },
+  {
+    "position": {
+      "lat": 23,
+      "lng": -58
+    },
+    "aqi": 27
+  },
+  {
+    "position": {
+      "lat": -69,
+      "lng": 105
+    },
+    "aqi": 133
+  },
+  {
+    "position": {
+      "lat": 28,
+      "lng": -100
+    },
+    "aqi": 55
+  },
+  {
+    "position": {
+      "lat": 89,
+      "lng": 160
+    },
+    "aqi": 196
+  },
+  {
+    "position": {
+      "lat": -10,
+      "lng": 20
+    },
+    "aqi": 122
+  },
+  {
+    "position": {
+      "lat": 77,
+      "lng": -16
+    },
+    "aqi": 155
+  },
+  {
+    "position": {
+      "lat": -36,
+      "lng": 127
+    },
+    "aqi": 391
+  },
+  {
+    "position": {
+      "lat": 46,
+      "lng": -10
+    },
+    "aqi": 201
+  },
+  {
+    "position": {
+      "lat": -13,
+      "lng": -46
+    },
+    "aqi": 482
+  },
+  {
+    "position": {
+      "lat": 18,
+      "lng": -160
+    },
+    "aqi": 118
+  },
+  {
+    "position": {
+      "lat": -54,
+      "lng": 118
+    },
+    "aqi": 426
+  },
+  {
+    "position": {
+      "lat": -55,
+      "lng": 110
+    },
+    "aqi": 142
+  },
+  {
+    "position": {
+      "lat": -83,
+      "lng": 73
+    },
+    "aqi": 386
+  },
+  {
+    "position": {
+      "lat": -52,
+      "lng": 70
+    },
+    "aqi": 336
+  },
+  {
+    "position": {
+      "lat": 21,
+      "lng": -120
+    },
+    "aqi": 382
+  },
+  {
+    "position": {
+      "lat": 73,
+      "lng": -22
+    },
+    "aqi": 227
+  },
+  {
+    "position": {
+      "lat": -80,
+      "lng": 23
+    },
+    "aqi": 426
+  },
+  {
+    "position": {
+      "lat": -45,
+      "lng": -72
+    },
+    "aqi": 158
+  },
+  {
+    "position": {
+      "lat": -7,
+      "lng": 135
+    },
+    "aqi": 111
+  },
+  {
+    "position": {
+      "lat": -5,
+      "lng": -76
+    },
+    "aqi": 8
+  },
+  {
+    "position": {
+      "lat": -73,
+      "lng": 82
+    },
+    "aqi": 375
+  },
+  {
+    "position": {
+      "lat": 73,
+      "lng": -80
+    },
+    "aqi": 184
+  },
+  {
+    "position": {
+      "lat": 75,
+      "lng": 52
+    },
+    "aqi": 457
+  },
+  {
+    "position": {
+      "lat": 52,
+      "lng": 58
+    },
+    "aqi": 263
+  },
+  {
+    "position": {
+      "lat": -71,
+      "lng": -38
+    },
+    "aqi": 221
+  },
+  {
+    "position": {
+      "lat": 64,
+      "lng": -84
+    },
+    "aqi": 431
+  },
+  {
+    "position": {
+      "lat": 0,
+      "lng": -88
+    },
+    "aqi": 356
+  },
+  {
+    "position": {
+      "lat": 8,
+      "lng": -100
+    },
+    "aqi": 302
+  },
+  {
+    "position": {
+      "lat": -45,
+      "lng": -173
+    },
+    "aqi": 422
+  },
+  {
+    "position": {
+      "lat": 28,
+      "lng": -86
+    },
+    "aqi": 452
+  },
+  {
+    "position": {
+      "lat": 69,
+      "lng": 30
+    },
+    "aqi": 101
+  },
+  {
+    "position": {
+      "lat": -16,
+      "lng": -105
+    },
+    "aqi": 82
+  },
+  {
+    "position": {
+      "lat": -65,
+      "lng": -109
+    },
+    "aqi": 200
+  },
+  {
+    "position": {
+      "lat": 11,
+      "lng": -9
+    },
+    "aqi": 203
+  },
+  {
+    "position": {
+      "lat": 51,
+      "lng": -96
+    },
+    "aqi": 492
+  },
+  {
+    "position": {
+      "lat": -48,
+      "lng": 108
+    },
+    "aqi": 402
+  },
+  {
+    "position": {
+      "lat": 57,
+      "lng": -22
+    },
+    "aqi": 121
+  }
+]
